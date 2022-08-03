@@ -3,7 +3,7 @@ Merhaba, SistersLab’in Toplum Gönüllüleri Vakfı tarafından desteklenen Wo
 
 Ve bu ödev sisterslab bitirme ödevidir.
 
-<img src="https://elordenmundial.com/nba-marca-comercial-politica-ee-uu-canchas-baloncesto/">
+<img src="https://elordenmundial.com/wp-content/uploads/2020/10/NBA-logo-baloncesto-historia-deporte-estados-unidos.jpg">
 
 # NBA Data Analysis
 
