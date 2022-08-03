@@ -7,7 +7,7 @@ Ve bu ödev sisterslab bitirme ödevidir.
 
 # NBA Data Analysis
 
-Bu ödevde;  data.rar dosyasında bulunan beş data dosyası kullanılarak analizler çıkarılmıştır.
+Bu ödevde;  data.rar dosyasında bulunan beş data dosyası kullanılarak analizler çıkarılmıştır.Bu data dosyaları yapılan nba maçları ile ilgili bilgiler içermektedir.
 
 ## Proje kapsamında kullanılan dil ve kütüphaneler;
 
